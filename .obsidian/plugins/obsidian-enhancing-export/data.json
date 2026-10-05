@@ -52,7 +52,7 @@
       "name": "PowerPoint (.pptx)"
     }
   ],
-  "defaultExportDirectoryMode": "Same",
+  "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true
